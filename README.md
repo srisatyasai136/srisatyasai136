@@ -1,57 +1,29 @@
-# 👋 Hello, I'm Sri Satya Sai Pasupuleti
+<h1 align="center">👋 Hello! I'm sri satya sai</h1>
 
-🎯 **Python | Django | MySQL | Flask | Data Analysis**
+<h3 align="center">A MCA Student | Aspiring Python Developer | Relentlessly exploring technologies</h3>
 
-Welcome to my GitHub! I'm a passionate developer who loves building practical and efficient applications using Python and web frameworks like Django and Flask.
-
----
-
-### 🚀 About Me
-- 🎓 MCA Graduate from **Adikavi Nannaya University**
-- 💼 Previously worked as a **Python Developer at Altech Star Solutions**
-- 🌍 Based in **Bangalore / Hyderabad**
-- 💡 Currently working on **Django + Flask + API projects**
-- 📊 Interested in **Data Analytics & Full Stack Development**
-- 🧠 Always learning — currently exploring **AI & Large Language Models**
-
----
-
-### 🧰 Tech Stack
-
-**Languages & Frameworks**
-> 🐍 Python · 🧩 Django · ⚗️ Flask · 💾 MySQL · 🧮 Pandas · 🧠 NumPy · 📊 Matplotlib  
-
-**Web Development**
-> 🌐 HTML · CSS · JavaScript · Bootstrap · REST APIs
-
-**Tools**
-> 🧰 Git · GitHub · VS Code · Postman · pgAdmin · MySQL Workbench
-
----
-
-### 📈 My GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srisatyasai136&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srisatyasai136&theme=radical" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&pause=500&color=9969E1&center=true&vCenter=true&width=450&lines=Building+Scalable+Web+Applications;Mastering+Data+Structures+%26+Algorithms" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 Featured Projects
+## 🛠️ My Current Tech Stack
 
-- 🎓 [Institute Student Management System (Django)](https://github.com/srisatyasai136/student-management)
-- 🛂 [Visa Mock Interview API (Flask)](https://github.com/srisatyasai136/visa-mock-interview)
-- 🌍 [University Website Clone (Django)](https://github.com/srisatyasai136/university-site)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode,react,jupyter" />
+</div>
 
 ---
 
-### 📫 Connect With Me
-<p align="left">
-  <a href="mailto:srisatyasai136@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/srisatyasai136"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/srisatyasai136"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/srisatyasai/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
----
-
-⭐️ *"Code is like humor — when you have to explain it, it’s bad."*
+<h5 align="center">"Code is like humor — when you have to explain it, it’s bad."</h5>
